@@ -9,7 +9,10 @@ Python program trying to detect the motion of objects using webcam.
 #### Under the hood
  - OpenCV library is used for capturing the video through webcam and reading the frames.
  - Gaussian blur is used to blur the frames to improve detection.
- 
+
+#GAUSSIAN BLUR FRAME
 ![](Images/delta_frame.png)
+#THRESHOLD FRAME
 ![](Images/thresh_frame.png)
+#ORIGINAL FRAME
 ![](Images/original_frame.png)
