@@ -12,7 +12,7 @@ Python program trying to detect the motion of objects using webcam.
 
 #### GAUSSIAN BLUR FRAME
 
-![](Images/delta_frame.png =300x450)
+![](Images/delta_frame.png | width=100 height=100)
 
 ##### THRESHOLD FRAME
 
